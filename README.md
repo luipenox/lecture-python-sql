@@ -1,4 +1,4 @@
-# python-sql [CZ/EN]
+# lecture-python-sql [CZ/EN]
 
 #### CZ: Workshop o SQL prostřednictvím Pythonu
 #### EN: Workshop about SQL via Python

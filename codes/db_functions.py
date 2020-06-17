@@ -33,3 +33,7 @@ def execute_query(conn, query):
         print(e, file=sys.stderr)
 
     return False
+
+
+if __name__ == '__main__':
+    pass
